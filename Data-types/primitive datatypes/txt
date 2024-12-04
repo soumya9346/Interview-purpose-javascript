@@ -1,0 +1,13 @@
+The term data type refers to the type of value a person can work on it.
+It allows different data types to hold the different types of values.
+
+data types are divided into 2 they are 
+1. primitive data type and 
+2. non primitive or complex data type
+
+in primitive datatype we have 
+    --strings,  numbers , boolean,  null, object
+
+non primitive datatypes we have 
+    --arrays,  objects
+          everything in js is considered as object

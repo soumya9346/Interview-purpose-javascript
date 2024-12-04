@@ -1,0 +1,9 @@
+-- string can be any text that can be wrapped in a single or double quotes.
+-- string can be used to store and manipulate the text
+-- string is a reference type datatype.
+
+1. length( ) => it used to find the length of the any text. it is a built in. 
+2. charAt( ) => it returns the position of any text
+3. indexOf( ) => it returns the value of the first occurence of the text
+4. toUpperCase( ) => returns the string to toUpperCase
+5. toLowerCase( ) => returns the string to toLowerCase

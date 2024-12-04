@@ -1,0 +1,15 @@
+OPERATORS
+
+
+operators are used to perform arthmetic logical & relational operation on operands or constants.
+it determines a specific action or process.
+
+operators are of few they are:
+-- arthmetic operators => used to perform arthmetic operations
+-- assignment operators => used to assign values to the variables
+-- comparision operators => it is used in logical statement to determine the equality and diff between the variables or 
+                            values
+-- logical operators => used to determine the logic btw variables or values
+-- conditional operators => the conditional statement is also known as Ternary operators.
+                            the javascript evalutes the expression for true or false values and then executes the one 
+                            of two given statements based on the results 

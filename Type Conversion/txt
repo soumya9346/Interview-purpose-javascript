@@ -1,0 +1,5 @@
+-- type conversion is used to convert of type of data to another
+-- type conversion is classified into 2 types they are:
+   1. Implicit type conversion => this conversion automatically converts the data of one type to another
+   2. explicit type conversion => this conversion manually converts the data of one type to another.
+                                  manual conversion can be done by using built in methods.

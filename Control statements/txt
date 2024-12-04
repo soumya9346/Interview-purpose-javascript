@@ -1,0 +1,34 @@
+control statements -- control statements are used to control the flow of execution of a program based on a
+                      certain condition
+1. Decision making or conditional statements
+2. looping or iteration statements
+3. jump statements
+
+
+decision making or conditional statements: conditional statements are used for a certain block of code need
+                                           to be executed when some condition is fullfilled.
+                            1. If
+                            2. If-else
+                            3. If-else-If
+                            4. switch
+
+looping or iteration statement: used to execute a statement or set of statement multiple times.
+                                it execute the statement untill the condition is true within the loop.
+
+                            1. while
+                                     it checks the condition first then execute the statement later.
+                                     it is a entry controlled loop
+                            2. do while
+                                     it executes the statement first then checks the condition later
+                                     it is a exit controlled loop
+                            3. for 
+                                     if the number of iteration are known then we can use For loop.
+                                     it is a entry controlled loop
+
+jump statement: it is used to transfer the control from one point to another point
+                            1. Break 
+                                     the break statement is used to terminate the loop or statement in which 
+                                     it is present
+                            2. continue
+                                     the continue statement is used to skip the execution part of the loop on a 
+                                     condition 
