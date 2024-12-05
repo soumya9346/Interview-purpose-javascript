@@ -1,0 +1,10 @@
+objects are the containers for the named values
+objects are variables too
+
+in object the list of values can be written as names, valued pairs and name and values are seperated by colon.
+
+-- Object properties:
+-- Object method: 
+-- Object Constructor: 
+this is a new keyword used to define the values names 
+and new is the new keyword to define the values
