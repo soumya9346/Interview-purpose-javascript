@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document object model</title>
+</head>
+<body>
+   <div id="demo">
+      <h3>Document Object Model</h3>
+   </div>
+   <div id="para">
+     <p class="paragraph"> this is a paragraph</p>
+     <p class="paragraph"> this is a paragraph</p>
+     <p class="paragraph"> this is a paragraph</p>
+     <p class="paragraph"> this is a paragraph</p>
+
+   </div>
+
+   <script>
+    // document.body.innerHTML="DOM";
+
+    // selecting by using id , class , and tag .
+
+    // using id
+    var a = document.getElementById("demo");
+    a.innerHTML = "paragraph";
+
+    // using classname
+    var a = document.getElementsByClassName("paragraph");
+    a[1].innerHTML="hello javascript";
+
+    // using tag
+    var a = document.getElementsByTagName("p");
+    for(x = 0; x<a.length; x++){
+        a[x].innerHTML = "my javascript";
+    }
+
+    // using DOM
+    var a = document.getElementsByTagName("p");
+    var elem = a.childNodes;
+    for(x = 0; x<a.length; x++){
+        a[x].innerHTML = "my javascript";
+    }
+
+    
+   </script>
+</body>
+</html>
